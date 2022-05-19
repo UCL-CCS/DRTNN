@@ -30,7 +30,7 @@
 
 # Running the Program! 
 
-First, user needs to install Anaconda https://www.anaconda.com/
+User needs first to install Anaconda https://www.anaconda.com/
 
 Then
 
