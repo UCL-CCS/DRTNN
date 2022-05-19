@@ -18,6 +18,9 @@
 
 #  Neural transformer network for predicting stress!
 
+<br>
+ <img height="550" src="images/model.png"/>
+</br>
 
 
 # Running the Program! 
