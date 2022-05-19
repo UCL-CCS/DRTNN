@@ -8,16 +8,16 @@
 
 
 <p float="left">
-  <img src="images/σ01_ε01.gif" width="200" />
-  <img src="images/σ02_ε02.gif" width="200" /> 
-  <img src="images/σ11_ε11.gif" width="200" />
+  <img src="images/σ01_ε01.gif" width="300" />
+  <img src="images/σ02_ε02.gif" width="300" /> 
+  <img src="images/σ11_ε11.gif" width="300" />
 </p>
 
 
 <p float="left">
-  <img src="images/σ12_ε12.gif" width="200" />
-  <img src="images/σ22_ε22.gif" width="200" /> 
-  <img src="images/σ33_ε33.gif" width="200" />
+  <img src="images/σ12_ε12.gif" width="300" />
+  <img src="images/σ22_ε22.gif" width="300" /> 
+  <img src="images/σ33_ε33.gif" width="300" />
 </p>
 
 
