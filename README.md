@@ -8,9 +8,9 @@
 
 
 <p float="center">
-  <img src="images/σ01_ε01.gif" width="250" />
-  <img src="images/σ02_ε02.gif" width="250" /> 
-  <img src="images/σ11_ε11.gif" width="250" />
+  <img src="images/σ01_ε01.gif" width="275" />
+  <img src="images/σ02_ε02.gif" width="275" /> 
+  <img src="images/σ11_ε11.gif" width="275" />
 </p>
 
 
