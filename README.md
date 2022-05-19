@@ -13,6 +13,9 @@
   <img src="images/σ11_ε11.gif" width="271" />
 </p>
 
+<br>
+ <img height="550" src="images/st.png"/>
+</br>
 
 <p float="center">
   <img src="images/σ12_ε12.gif" width="271" />
