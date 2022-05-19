@@ -14,7 +14,7 @@
 </p>
 
 <br>
- <img height="550" src="images/st.png"/>
+ <img height="400" src="images/st.png"/>
 </br>
 
 <p float="center">
