@@ -5,9 +5,13 @@
 
 
 # [Deep Residual Transformer Neural Network (DRTNN)]
-<br>
- <img height="310" src="images/graph.gif"/>
-</br>
+
+
+<p float="left">
+  <img src="images/σ01_ε01.gif" width="100" />
+  <img src="images/σ02_ε02.gif" width="100" /> 
+  <img src="images/σ11_ε11.gif" width="100" />
+</p>
 
 
 
