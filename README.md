@@ -13,7 +13,7 @@
 
 
 <br>
- <img height="510" src="images/architecture.png"/>
+ <img height="550" src="images/architecture.png"/>
 </br>
 
 #  Neural transformer network for predicting stress!
