@@ -19,6 +19,11 @@
 #  Neural transformer network for predicting stress!
 
 <br>
+ <img height="550" src="images/scema_data.png"/>
+</br>
+
+
+<br>
  <img height="550" src="images/model.png"/>
 </br>
 
