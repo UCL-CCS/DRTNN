@@ -31,7 +31,7 @@ The Transformer Neural Network in this project is not depend on the data represe
 
 #  Neural transformer network for predicting stress!
 
-Neural transformer network is a computational learning system for predicting stress as a surrogate model for the computational model of a heterogeneous multi-scale atomistic continuum coupling system, SCEMa (https://GitHub.com/UCL-CCS/SCEMa). 
+Transformer network, in the current form,  is a computational learning system for predicting stress. It is a surrogate model for the computational model of a heterogeneous multi-scale atomistic continuum coupling system, SCEMa (https://GitHub.com/UCL-CCS/SCEMa). 
 
 <br>
  <img height="550" src="images/scema_data.png"/>
