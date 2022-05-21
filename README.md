@@ -14,6 +14,10 @@ The Transformer Neural Network in this project is not depend on the data represe
   <img src="images/σ11_ε11.gif" width="271" />
 </p>
 
+
+The following image shows a brief comparison between the architectures of the Transformer Network in the current study and a typical Transformer Network.
+
+
 <br>
  <img height="400" src="images/stt.png"/>
 </br>
