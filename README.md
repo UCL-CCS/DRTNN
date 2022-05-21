@@ -6,7 +6,7 @@
 
 # [Deep Residual Transformer Neural Network (DRTNN)]
 
-The Transformer Neural Network in this project is not depend on the data representation and the application (the surrogate model works for any type of linear and nonlinear systems)
+The Transformer Neural Network in this project is not depend on the data representation and the application (the surrogate model works for any type of linear and nonlinear systems). It can be easily modified for end user purposes.
 
 <p float="center">
   <img src="images/σ01_ε01.gif" width="271" />
